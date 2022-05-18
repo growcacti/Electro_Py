@@ -1,0 +1,26 @@
+														
+	AND Gate					OR Gate					NOR			
+														
+	Input1	Input2		Output		Input1	Input2		Output		Input1	Input2		Output
+	0	0		0		0	0	0	0		0	0	0	1
+	0	1		0		0	1	1	1		0	1	1	0
+	1	0		0		1	0	1	1		1	0	1	0
+	1	1		1		1	1	2	1		1	1	1	0
+														
+														
+	NAND					XOR					XNOR			
+														
+	Input1	Input2		Output		Input1	Input2		Output		Input1	Input2		Output
+	0	0	0	1		0	0	0	0		0	0	0	1
+	0	1	0	1		0	1	1	1		0	1	1	0
+	1	0	0	1		1	0	1	1		1	0	1	0
+	1	1	1	0		1	1	2	0		1	1	2	1
+														
+	NOT													
+														
+	Input1		Output											
+	0		1											
+	1		0											
+														
+														
+														
